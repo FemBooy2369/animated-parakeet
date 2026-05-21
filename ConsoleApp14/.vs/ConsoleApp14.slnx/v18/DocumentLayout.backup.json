@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\\u043C\u043A\u0430-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\consoleapp14\\consoleapp14\\tasks\\numerosiete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\tasks\\numerosiete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\\u043C\u043A\u0430-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\consoleapp14\\consoleapp14\\tasks\\numerocinco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\tasks\\numerocinco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\\u043C\u043A\u0430-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\consoleapp14\\consoleapp14\\tasks\\numeroseis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\tasks\\numeroseis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\\u043C\u043A\u0430-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\consoleapp14\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\\u043C\u043A\u0430-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\consoleapp14\\consoleapp14\\korzina\\test 6.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\korzina\\test 6.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\\u043C\u043A\u0430-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\consoleapp14\\consoleapp14\\korzina\\test 6.txt.enc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\korzina\\test 6.txt.enc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\\u043C\u043A\u0430-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\consoleapp14\\consoleapp14\\korzina\\test5copy_copy||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\korzina\\test5copy_copy||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\\u043C\u043A\u0430-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\consoleapp14\\consoleapp14\\datatests\\test 5.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A41A223A-B36D-4AC6-B197-D9FD41573469}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\datatests\\test 5.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumeroSiete.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Tasks\\NumeroSiete.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Tasks\\NumeroSiete.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Tasks\\NumeroSiete.cs*",
+              "RelativeToolTip": "ConsoleApp14\\Tasks\\NumeroSiete.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:48:41.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeToolTip": "ConsoleApp14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:17:03.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumeroCinco.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Tasks\\NumeroCinco.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Tasks\\NumeroCinco.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Tasks\\NumeroCinco.cs",
+              "RelativeToolTip": "ConsoleApp14\\Tasks\\NumeroCinco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:25:13.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumeroSeis.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Tasks\\NumeroSeis.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Tasks\\NumeroSeis.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Tasks\\NumeroSeis.cs",
+              "RelativeToolTip": "ConsoleApp14\\Tasks\\NumeroSeis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:26:31.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test 6.txt",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Korzina\\test 6.txt",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Korzina\\test 6.txt",
+              "ToolTip": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Korzina\\test 6.txt",
+              "RelativeToolTip": "ConsoleApp14\\Korzina\\test 6.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-21T06:46:18.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test5copy_copy",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Korzina\\test5copy_copy",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Korzina\\test5copy_copy",
+              "ToolTip": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Korzina\\test5copy_copy",
+              "RelativeToolTip": "ConsoleApp14\\Korzina\\test5copy_copy",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T06:43:04.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test 6.txt.enc",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Korzina\\test 6.txt.enc",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Korzina\\test 6.txt.enc",
+              "ToolTip": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Korzina\\test 6.txt.enc",
+              "RelativeToolTip": "ConsoleApp14\\Korzina\\test 6.txt.enc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T06:45:08.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "test 5.txt",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\DataTests\\test 5.txt",
+              "RelativeDocumentMoniker": "ConsoleApp14\\DataTests\\test 5.txt",
+              "ToolTip": "C:\\Users\\\u041C\u041A\u0410-\u0443\u0447\u0435\u043D\u0438\u043A\\source\\repos\\ConsoleApp14\\ConsoleApp14\\DataTests\\test 5.txt",
+              "RelativeToolTip": "ConsoleApp14\\DataTests\\test 5.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-21T06:32:04.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
